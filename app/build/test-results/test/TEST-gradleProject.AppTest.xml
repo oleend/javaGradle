@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gradleProject.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-13T20:44:20" hostname="LAPTOP-830SGCFU" time="0.011">
+  <properties/>
+  <testcase name="appHasAGreeting()" classname="gradleProject.AppTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
